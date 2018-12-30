@@ -17,10 +17,10 @@
 ```
 
 ## 目錄
-- [PART1](PART1.md)
-- [PART2](PART2.md)
-- [PART3](PART3.md)
-- [PART4](PART4.md)
+- [PART1](PART1.md)：瞭解Django項目及Django應用程序
+- [PART2](PART2.md)：瞭解Django對於資料庫的操作及Django模型類別
+- [PART3](PART3.md)：瞭解Django路由設定、Django視圖及Django模板
+- [PART4](PART4.md)：透過網頁表單瞭解Django伺服端如何處理客戶端要求
 - [PART5]
 - [PART6]
 - [PART7]
