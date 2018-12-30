@@ -33,7 +33,7 @@ study_project/
 ```
 python manage.py runserver
 ```
-將會在http://127.0.0.1:8000/啟動開發服務器。
+將會在`http://127.0.0.1:8000/`啟動開發服務器。
 
 ## 創建 App (投票應用程序)
 Project和App之間有什麼區別？
@@ -110,4 +110,4 @@ urlpatterns = [
 ```
 python manage.py runserver
 ```
-- 在瀏覽器中轉到http://127.0.0.1:8000/polls/，可以應該看到“投票首頁“的文字。
+- 在瀏覽器中轉到`http://127.0.0.1:8000/polls/`，可以應該看到“投票首頁“的文字。
