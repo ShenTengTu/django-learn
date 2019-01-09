@@ -6,6 +6,8 @@
 - Python 3.7
 - Django 2.1.4
 
+[DEMO連結 http://shentengtu.pythonanywhere.com/polls/](http://shentengtu.pythonanywhere.com/polls/)
+
 ## Python虛擬環境
 本學習項目使用 Pipenv 套件管理工具來創建虛擬環境。 ([Pipenv 套件管理工具 官網](https://pipenv.readthedocs.io/en/latest/))
 ```shell
