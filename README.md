@@ -1,9 +1,11 @@
 # first Django app
-參考官方文件教學：[Writing your first Django app (version 3.1)](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+參考官方文件教學：https://docs.djangoproject.com/en/3.1/
 
 <details>
   <summary>Change Log</summary>
   <dl>
+    <dt>2021-01-24</dt>
+    <dd>新增『佈署檢查清單』。 </dd>
     <dt>2021-01-21</dt>
     <dd>更新至Django 3.1.x，以3.1版官方文件為參考。更新PART1.md，範例代碼改回PART1進度。 </dd>
   </dl>
@@ -27,10 +29,12 @@
 ```
 
 ## 目錄
-- [PART1](PART1.md)：瞭解Django專案及Django應用程式 (2021-01-21 Updated)
-- [PART2](PART2.md)：瞭解Django對於資料庫的操作及Django模型類別
-- [PART3](PART3.md)：瞭解Django路由設定、Django視圖及Django模板
-- [PART4](PART4.md)：透過網頁表單瞭解Django伺服端如何處理客戶端要求
-- [PART5]
-- [PART6]
-- [PART7]
+- [Writing your first Django app (version 3.1)](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+  - [PART1](PART1.md)：瞭解Django專案及Django應用程式 (2021-01-21 Updated)
+  - [PART2](PART2.md)：瞭解Django對於資料庫的操作及Django模型類別
+  - [PART3](PART3.md)：瞭解Django路由設定、Django視圖及Django模板
+  - [PART4](PART4.md)：透過網頁表單瞭解Django伺服端如何處理客戶端要求
+  - [PART5]
+  - [PART6]
+  - [PART7]
+- [佈署檢查清單](others/deployment/deployment_checklist.md)
